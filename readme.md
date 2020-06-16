@@ -8,14 +8,14 @@ regsvr32 /n /i:1 "obs-virtualcam\bin\32bit\obs-virtualsource.dll"
 regsvr32 /n /i:1 "obs-virtualcam\bin\64bit\obs-virtualsource.dll"
 ```
 
+or run from source with python:
+
 ```
 pip install -r requirements.txt
 ```
-
 ```
 python3 chromicam.py https://obs.ninja/?view=xxxxx 1280 720
 ```
-
 
 Stop OBS Virtual Cam before using with this tool if its already in use. 
 (Stop it in OBS if using it there, for example)
