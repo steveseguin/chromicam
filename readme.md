@@ -1,4 +1,4 @@
-windows binary can be found at: https://obs.nina/chromicam_win.zip
+windows binary can be found at: https://obs.ninja/chromicam_win.zip
 
 You'll need to install: https://obsproject.com/forum/resources/obs-virtualcam.949/
 
