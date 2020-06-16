@@ -1,3 +1,5 @@
+windows binary can be found at: https://obs.nina/chromicam_win.zip
+
 You'll need to install: https://obsproject.com/forum/resources/obs-virtualcam.949/
 
 Stop OBS Virtual Cam before using with this tool if its already in use. 
