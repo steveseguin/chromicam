@@ -14,3 +14,7 @@ If it crashes, deactive and reaactivate OBS Virtualcam (via its OBS device setti
 Also double check to make sure its not already in use by OBS or other app.
 
 This app will use the first OBS Virtualcam; others install are ignored.
+
+There will not be any video output unless the content is dynamic; it will update on scene changes.
+
+Default is up to 30fps
