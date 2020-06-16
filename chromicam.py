@@ -4,7 +4,7 @@
 # regsvr32 /n /i:1 "obs-virtualcam\bin\64bit\obs-virtualsource.dll"
 ### AND FINALLY..
 ## pip install -r requirements.txt
-# python3 chromicam.py https://www.youtube.com/watch?v=oHg5SJYRHA0 1280 720
+# python3 chromicam.py https://www.youtube.com/watch?v=oHg5SJYRHA0 1280 720 30
 
 from cefpython3 import cefpython as cef
 import os
