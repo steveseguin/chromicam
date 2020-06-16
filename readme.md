@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/2575698/84745620-d6a57b80-af82-11ea-8137-7e01dd188004.png)
 windows binary can be found at: https://obs.ninja/chromicam_win.zip
 
 You'll need to install: https://obsproject.com/forum/resources/obs-virtualcam.949/
