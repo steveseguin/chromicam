@@ -15,16 +15,16 @@ or run from source with python:
 pip install -r requirements.txt
 ```
 ```
-python3 chromicam.py https://obs.ninja/?view=xxxxx 1280 720
+python3 chromicam.py https://www.youtube.com/watch?v=oHg5SJYRHA0 1280 720 30
 ```
+or withe compiled version
+```
+chromicam.exe https://www.youtube.com/watch?v=oHg5SJYRHA0 1280 720 30
+```
+or just *chromicam.exe* to test the default settings.
 
 Stop OBS Virtual Cam before using with this tool if its already in use. 
 (Stop it in OBS if using it there, for example)
-
-usage:
-chromicam https://obs.ninja/?view=xxx 1280 720 30
-
-or just chromicam.exe to test.
 
 If it crashes, deactive and reaactivate OBS Virtualcam (via its OBS device settings works)
 Also double check to make sure its not already in use by OBS or other app.
