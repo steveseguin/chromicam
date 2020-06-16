@@ -1,0 +1,4 @@
+cefpython3>=66.0
+Pillow>=6.1.0
+numpy>=1.18.1+mkl
+pyvirtualcam>=0.2.0
