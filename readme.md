@@ -2,6 +2,21 @@ windows binary can be found at: https://obs.ninja/chromicam_win.zip
 
 You'll need to install: https://obsproject.com/forum/resources/obs-virtualcam.949/
 
+if OBS is not installed.
+```
+regsvr32 /n /i:1 "obs-virtualcam\bin\32bit\obs-virtualsource.dll"
+regsvr32 /n /i:1 "obs-virtualcam\bin\64bit\obs-virtualsource.dll"
+```
+
+```
+pip install -r requirements.txt
+```
+
+```
+python3 chromicam.py https://obs.ninja/?view=xxxxx 1280 720
+```
+
+
 Stop OBS Virtual Cam before using with this tool if its already in use. 
 (Stop it in OBS if using it there, for example)
 
