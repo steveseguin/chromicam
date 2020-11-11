@@ -1,7 +1,6 @@
 *Chromicam* uses CEF (Chromium Embedded Framework) and OBS-Virtualcam (along with the very awesome pyvirtualcam lib) to create a live video output device that mirrors a website.  This application can be run minimized, in the background, which frees up desktop screen space versus the alternative of screen capturing.
 
 ![image](https://user-images.githubusercontent.com/2575698/84745620-d6a57b80-af82-11ea-8137-7e01dd188004.png)
-Pre-built Windows Binary  [can be found here](https://obs.ninja/chromicam_win.zip)
 
 You'll need to install this also: https://obsproject.com/forum/resources/obs-virtualcam.949/
 
