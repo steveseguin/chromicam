@@ -10,10 +10,8 @@ if OBS is not installed, you can force the install of the driver with this:
 regsvr32 /n /i:1 "obs-virtualcam\bin\32bit\obs-virtualsource.dll"
 regsvr32 /n /i:1 "obs-virtualcam\bin\64bit\obs-virtualsource.dll"
 ```
-Running with the compiled version:
-```
-chromicam.exe https://www.youtube.com/watch?v=oHg5SJYRHA0 1280 720 30
-```
+
+(compiled versions have been removed)
 
 
 If you want to run Chromicam from source, you will need Python3 and then you can do:
